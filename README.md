@@ -3,8 +3,6 @@
 
 # Installation
 
-<li>Find this in <strong>qb-target/config</strong></li>
-<li>Put this in <strong>"Config.TargetModels"</strong> (more reliable to always keep target models in config)</li>
 <pre>    [<span class="pl-s"><span class="pl-pds">"</span>VehicleRental<span class="pl-pds">"</span></span>] <span class="pl-k">=</span> {
         models <span class="pl-k">=</span> {
             `a_m_y_business_03`,
